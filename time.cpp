@@ -48,7 +48,7 @@ std::string printMovie(Movie mv) {
 
 std::string getTimeSlot(TimeSlot ts){
     std::string movie = printMovie(ts.movie);
-    std::string time = "[Starts at" + return printTime(ts.startTime) + ", ends by" + printTime(addMinutes(ts.startTime, ts.movie.duration)) + "]";
+    std::string time = "[Starts at" + printTime(ts.startTime) + ", ends by" + printTime(addMinutes(ts.startTime, ts.movie.duration)) + "]";
     return movie + time;
 }
 
