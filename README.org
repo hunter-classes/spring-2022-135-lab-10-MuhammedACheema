@@ -1,13 +1,14 @@
 * Spring 2022 - Lab 10
 
-* Last name:
+* Last name: Cheema
 
-* First name:
+* First name: Muhammed 
 
-* GitHub username:
+* GitHub username: MuhammedACheema
 
 * Notes:
-
+  Worked alongside Crystal
+  
 
   
 * General instructions:
